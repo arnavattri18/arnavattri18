@@ -1,0 +1,34 @@
+body.blue-mode {
+    background-color: #e0f7fa;
+    color: #00796b;
+}
+
+.blue-mode .logo h2,
+.blue-mode nav ul li a,
+.blue-mode .search input,
+.blue-mode .search button,
+.blue-mode .dropdown .dropbtn,
+.blue-mode .dropdown-content a,
+.blue-mode footer p {
+    color: #00796b;
+}
+
+.blue-mode .search input,
+.blue-mode .search button {
+    background-color: #b2ebf2;
+    color: #00796b;
+}
+
+.blue-mode header,
+.blue-mode footer {
+    background-color: #4dd0e1;
+}
+
+.blue-mode .dropdown-content a {
+    background-color: #b2ebf2;
+    color: #00796b;
+}
+
+.blue-mode .dropdown-content a:hover {
+    background-color: #80deea;
+}

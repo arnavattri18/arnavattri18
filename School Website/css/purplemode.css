@@ -1,0 +1,34 @@
+body.purple-mode {
+    background-color: #f3e5f5;
+    color: #6a1b9a;
+}
+
+.purple-mode .logo h2,
+.purple-mode nav ul li a,
+.purple-mode .search input,
+.purple-mode .search button,
+.purple-mode .dropdown .dropbtn,
+.purple-mode .dropdown-content a,
+.purple-mode footer p {
+    color: #6a1b9a;
+}
+
+.purple-mode .search input,
+.purple-mode .search button {
+    background-color: #e1bee7;
+    color: #6a1b9a;
+}
+
+.purple-mode header,
+.purple-mode footer {
+    background-color: #ab47bc;
+}
+
+.purple-mode .dropdown-content a {
+    background-color: #e1bee7;
+    color: #6a1b9a;
+}
+
+.purple-mode .dropdown-content a:hover {
+    background-color: #d1c4e9;
+}
